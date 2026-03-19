@@ -1,81 +1,70 @@
 # Hi, I'm Soichiro Miyata
 
-Robotics graduate student focusing on simulation and AI applications.  
-大学院でロボティクスを研究しており、42tokyoとのダブルスクールでハード/ソフトの両方を学んでいます。  
-学部時代には、筋骨格シミュレーションを用いた歩行アシスト設計に取り組んでいました。
+Robotics graduate student.  
+I am currently studying robotics in graduate school while also attending 42Tokyo, gaining both hardware and software skills.  
+During my undergraduate studies, I worked on gait assist design using musculoskeletal simulation.
 
-C / Python / AnyBody (AnyScript) を中心に、  
-ロボティクス・シミュレーション・AIアプリ開発を行っています。
+I mainly work with C / Python 
+focusing on robotics, simulation, and AI application development.
 
 ---
 
 ## Research
 
-### Gait Assist Design using Musculoskeletal Simulation (Completed)
-筋骨格シミュレーション（AnyBody）を用いて、  
-筋骨格シミュレータを用いた関節トルク低減を目的とする歩行アシスト設計を行いました。
+### Gait Assist Design
+Gait assist design using musculoskeletal simulation (AnyBody)
 
-- 歩行データ解析（関節角度・関節トルク・床反力など）
-- アシストトルク波形の設計
-- シミュレーションによる評価
-  
-この研究を通して、生体力学・ロボティクス・シミュレーション統合の理解を深めました。  
+- Analysis of joint angles, joint torques, and ground reaction forces
+- Design of assistive torque profiles
+- Evaluation through simulation
 
 ---
 
 ## Experience
 
-### Autonomous Mini-Car Development (3rd Place / ~60 Teams)
-学部時代に、ライントレースマシンの設計・実装を行い学年1位を取得したほか、AMD-LeRobot Contestなどのハッカソンに出場し、以下の技術を学びました。
+### Autonomous Mini-Car (3rd / ~60 teams)
+Line-tracing autonomous vehicle development and competition achievement
 
-- OpenCVを用いた画像処理によるライン検出
-- センサ・制御・ソフトウェアの統合開発
-- CNNを用いた画像認識・機械学習の基礎
+- Participated in multiple hackathons
+- Built systems integrating vision, control, and software
 
-これらの経験を活かし、42主催・自動車企業（トヨタ等）協賛の自動運転ミニカーバトルに出場し、約60チーム中3位を獲得しました。
-
-この取り組みにより、
-- 画像処理と機械学習の実応用力  
-- 実機環境におけるロバストな制御設計  
-- ハードウェアとソフトウェアの統合開発能力  
-を習得しました。
+→ Achieved 3rd place out of ~60 teams in a self-driving mini-car competition  
+   hosted by 42 and sponsored by companies including Toyota
 
 ---
 
-## Now working on
-- ロボティクス研究（大学院）
-- AIアプリ開発（RAG / 音声入出力など）
-- 42Tokyo projects（C / アルゴリズム / システムプログラミング）
+## Now
+
+- Robotics research
+- AI application development (RAG / voice interface)
+- 42Tokyo (C / algorithms / system programming)
 
 ---
 
-## Programming Languages
-- C
-- Python
-- AnyScript
+## Skills
+
+**Languages**
+- C / Python
+
+**Tools**
+- ROS2 / OpenCV / AnyBody
+- Git / Linux / WSL
 
 ---
 
-## Tools & Technologies
-- ROS2
-- OpenCV
-- AnyBody Modeling System
-- Git / GitHub
-- Linux / WSL
-
----
-
-## Featured Projects
+## Projects
 
 - [42subjects](https://github.com/42subject)  
-  42Tokyoでの課題を通じて、低レイヤからシステム開発、まで幅広く経験
-
+  Low-level programming / algorithms / system development
 
 - [autonomous-mini-car]()  
-  自動運転ミニカーの設計・実装  
-  約60チーム中3位
+  Self-driving mini-car competition (3rd place)
+
+- [AssistGenerator]()  
+  Automation tool for assistive torque calculation using  
+  PowerShellScript / Python / AnyScript(AnyBody)
 
 ---
 
 ## Contact
-- Email: smiyata925@gmail.com
+- smiyata925@gmail.com
