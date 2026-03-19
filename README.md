@@ -58,10 +58,10 @@ Line-tracing autonomous vehicle development and competition achievement
 - [42subjects](https://github.com/42subject)  
   Low-level programming / algorithms / system development
 
-- [autonomous-mini-car]()  
+- [autonomous-mini-car](http://github.com/souaoao/toyota)  
   Self-driving mini-car competition (3rd place)
 
-- [AssistGenerator]()  
+- [AssistGenerator](https://github.com/souaoao/AnyBody_AssistGenerator)  
   Automation tool for assistive torque calculation using  
   PowerShellScript / Python / AnyScript(AnyBody)
 
