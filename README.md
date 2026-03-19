@@ -22,10 +22,11 @@ Gait assist design using musculoskeletal simulation (AnyBody)
 
 ## Experience
 
+Participated in multiple hackathons
+
 ### Autonomous Mini-Car (3rd / ~60 teams)
 Line-tracing autonomous vehicle development and competition achievement
 
-- Participated in multiple hackathons
 - Built systems integrating vision, control, and software
 
 → Achieved 3rd place out of ~60 teams in a self-driving mini-car competition  
