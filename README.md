@@ -57,9 +57,11 @@ Line-tracing autonomous vehicle development and competition achievement
 
 - [42subjects](https://github.com/42subject)  
   Low-level programming / algorithms / system development
+  C / Python
 
 - [autonomous-mini-car](http://github.com/souaoao/toyota)  
   Self-driving mini-car competition (3rd place)
+  C / Python
 
 - [AssistGenerator](https://github.com/souaoao/AnyBody_AssistGenerator)  
   Automation tool for assistive torque calculation using  
