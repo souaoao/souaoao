@@ -38,7 +38,7 @@ Line-tracing autonomous vehicle development and competition achievement
 
 - Robotics research
 - AI application development (RAG / voice interface)
-- 42Tokyo (C / algorithms / system programming)
+- 42Tokyo (algorithms / system programming / 3D graphics)
 
 ---
 
@@ -56,11 +56,11 @@ Line-tracing autonomous vehicle development and competition achievement
 ## Projects
 
 - [42subjects](https://github.com/42subject)  
-  Low-level programming / algorithms / system development
+  Low-level programming / algorithms / system development  
   C / Python
 
 - [autonomous-mini-car](http://github.com/souaoao/toyota)  
-  Self-driving mini-car competition (3rd place)
+  Self-driving mini-car competition (3rd place)  
   C / Python
 
 - [AssistGenerator](https://github.com/souaoao/AnyBody_AssistGenerator)  
