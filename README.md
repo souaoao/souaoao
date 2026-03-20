@@ -63,7 +63,7 @@ Line-tracing autonomous vehicle development and competition achievement
   Self-driving mini-car competition (3rd place)  
   C / Python
 
-- [AssistGenerator](https://github.com/souaoao/AnyBody_AssistGenerator)  
+- [AssistGenerator(coming soon!)](https://github.com/souaoao/AnyBody_AssistGenerator)  
   Automation tool for assistive torque calculation using  
   PowerShellScript / Python / AnyScript(AnyBody)
 
