@@ -45,7 +45,7 @@ Line-tracing autonomous vehicle development and competition achievement
 ## Skills
 
 **Languages**
-- C / Python
+- C / C++ / Python / Dart / etc...
 
 **Tools**
 - ROS2 / OpenCV / AnyBody
