@@ -111,6 +111,7 @@ Implemented PID control, drivable-area estimation, path planning, and path follo
 * Large Language Models
 * Retrieval-Augmented Generation
 * Vision-Language-Action Models
+* World-Action-Models
 * Physical AI
 * Robotics
 * End-to-End Autonomous Driving
