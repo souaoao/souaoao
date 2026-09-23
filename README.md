@@ -6,7 +6,7 @@
 
 Graduate Student at Shinshu University / 42 Tokyo
 
-[Portfolio](https://souaoao.github.io/) · [GitHub](https://github.com/souaoao)
+[Portfolio](https://souaoao.github.io/)
 
 </div>
 
@@ -26,27 +26,99 @@ Graduate Student at Shinshu University / 42 Tokyo
 
 ### Languages and Web Technologies
 
-`Python` `C` `C++` `Go` `Dart` `JavaScript` `SQL` `HTML` `CSS`
+[![Languages and Web Technologies](https://skillicons.dev/icons?i=py,c,cpp,dart,js,html,css)](https://skillicons.dev)
+
+`Python` `C` `C++` `Dart` `JavaScript` `HTML` `CSS`
 
 ### Frameworks and Libraries
 
-`PyTorch` `Transformers` `OpenCV` `Flutter` `Echo` `Pydantic`
+[![Frameworks and Libraries](https://skillicons.dev/icons?i=pytorch,opencv,flutter)](https://skillicons.dev)
 
-### Databases and Cloud Platforms
+`PyTorch` `OpenCV` `Flutter`
 
-`PostgreSQL` `Firebase` `GCP`
+### Platforms
+
+[![Platforms](https://skillicons.dev/icons?i=firebase,gcp)](https://skillicons.dev)
+
+`Firebase` `GCP`
 
 ### Robotics and Simulation
+
+[![Robotics and Simulation](https://skillicons.dev/icons?i=ros)](https://skillicons.dev)
 
 `ROS 2` `AnyBody Modeling System`
 
 ### Development and Infrastructure
 
-`Docker` `Terraform` `Git` `GitHub Actions` `Linux`
+[![Development and Infrastructure](https://skillicons.dev/icons?i=docker,git,githubactions,linux)](https://skillicons.dev)
+
+`Docker` `Git` `GitHub Actions` `Linux`
 
 ---
 
 ## 🚀 Featured Projects
+
+### 📱 Nexpot
+
+Developed a location-aware tourism application featuring AI-powered audio guides, quizzes, routes, and sightseeing spot recommendations.
+
+Contributed primarily to the Flutter frontend while also collaborating on the backend and cloud infrastructure.
+
+**Built with:** `Flutter` `Dart` `Go` `PostgreSQL` `Firebase` `GCP` `OpenAI`
+
+---
+
+### 🚗 [Autonomous Mini Car](https://github.com/souaoao/Autonomous-mini-car)
+
+Developed an autonomous driving system for a small robotic car.
+
+Implemented PID control, drivable-area estimation, path planning, and path following.
+
+🏆 **3rd Place**
+
+**Built with:** `Python` `C` `OpenCV`
+
+**Domain:** `Control Engineering`
+
+---
+
+### [42subjects](https://github.com/42subject)
+
+A collection of my 42 Tokyo coursework, grouped by subject area:
+
+**Foundations**
+
+* [libft](https://github.com/42subject/libft) — Reimplemented C library functions and linked-list utilities.
+* [ft_printf](https://github.com/42subject/ft_printf) — Implemented formatted output for common `printf` conversions.
+* [get_next_line](https://github.com/42subject/get_next_line) — Read files one line at a time using a configurable buffer.
+* [python module](https://github.com/42subject/python_module) — Collected Python 0–10 exercises on fundamentals, data structures, OOP, and data processing.
+
+**Infrastructure**
+
+* [Born2beroot](https://github.com/42subject/Born2beroot) — Configured a Debian virtual machine with encryption, user policies, SSH, a firewall, and monitoring.
+* NetPractice — Configured ten TCP/IP networks covering IPv4 addresses, subnet masks, gateways, and routing.
+
+**Systems**
+
+* [mintalk](https://github.com/42subject/mintalk) — Sent messages between client and server processes using Unix signals.
+* [Codexion](https://github.com/42subject/Codexion) — Simulated multithreaded resource sharing with FIFO and EDF scheduling.
+
+**Algorithms**
+
+* [push swap](https://github.com/42subject/push_swap) — Sorted integers with two stacks and a restricted set of operations.
+* [A-Maze-ing](https://github.com/42subject/A-Maze-ing) — Generated mazes and calculated shortest paths.
+* [Fly-in](https://github.com/42subject/Fly-in) — Planned drone movements on a graph with hub and connection capacity limits.
+
+**Graphics**
+
+* [fdf](https://github.com/42subject/fdf) — Built a wireframe height-map renderer with MiniLibX.
+
+**LLM**
+
+* [Call Me Maybe](https://github.com/42subject/Call_Me_Maybe) — Turned natural-language requests into validated JSON function calls with a local LLM.
+* [RAG Against the Machine](https://github.com/42subject/RAG_Against_the_machine) — Built a local RAG pipeline over vLLM source code with BM25 retrieval, Qwen answer generation, and Recall@k evaluation.
+
+---
 
 ### 🥌 Curling AI
 
@@ -68,43 +140,6 @@ The platform automates simulation execution, assistive-force calculation, re-ana
 
 **Domain and methods:** `Biomechanics` `Motion Capture`
 
----
-
-### 🔎 RAG System
-
-Implemented a retrieval-augmented generation pipeline from scratch, including document chunking, BM25 indexing, retrieval, answer generation, and evaluation.
-
-Optimized search by moving query-independent calculations to the indexing stage.
-
-**Built with:** `Python` `Pydantic`
-
-**Architecture and algorithm:** `RAG` `BM25`
-
----
-
-### 📱 Nexpot
-
-Developed a location-aware tourism application featuring AI-powered audio guides, quizzes, routes, and sightseeing spot recommendations.
-
-Contributed primarily to the Flutter frontend while also collaborating on the backend and cloud infrastructure.
-
-**Built with:** `Flutter` `Dart` `Go` `PostgreSQL` `Firebase` `GCP` `OpenAI`
-
----
-
-### 🚗 Autonomous Mini Car
-
-Developed an autonomous driving system for a small robotic car.
-
-Implemented PID control, drivable-area estimation, path planning, and path following.
-
-🏆 **3rd Place**
-
-**Built with:** `Python` `C` `OpenCV`
-
-**Domain:** `Control Engineering`
-
----
 
 ## 🔭 Currently Interested In
 
@@ -117,13 +152,3 @@ Implemented PID control, drivable-area estimation, path planning, and path follo
 * End-to-End Autonomous Driving
 
 ---
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=souaoao&show_icons=true&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souaoao&layout=compact&hide_border=true" />
-
-</div>
