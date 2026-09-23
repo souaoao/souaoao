@@ -14,45 +14,35 @@ Graduate Student at Shinshu University / 42 Tokyo
 
 ## 👨‍💻 About Me
 
-* 🎓 Graduate student studying **Mechanical Engineering & Robotics at Shinshu University**
-* 💻 Studying **Computer Science and System Programming at 42 Tokyo**
-* 🥌 Researching **LLM-based curling strategy and explanation generation**
-* 🤖 Interested in **Robotics, LLMs, RAG, Physical AI, and Autonomous Systems**
+* 🎓 Graduate student studying **mechanical engineering and robotics at Shinshu University**
+* 💻 Studying **computer science and systems programming at 42 Tokyo**
+* 🥌 Researching **LLM-based curling strategy planning and explanation generation**
+* 🤖 Interested in **robotics, LLMs, RAG, physical AI, and autonomous systems**
 * 🔧 I enjoy understanding how systems work internally and turning ideas into working implementations
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Languages
+### Languages and Web Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,go,dart,js,html,css,sql" />
-</p>
+`Python` `C` `C++` `Go` `Dart` `JavaScript` `SQL` `HTML` `CSS`
 
-### AI / Machine Learning
+### Frameworks and Libraries
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-</p>
+`PyTorch` `Transformers` `OpenCV` `Flutter` `Echo` `Pydantic`
 
-`PyTorch` `Transformers` `LLM` `RAG` `BM25` `OpenCV`
+### Databases and Cloud Platforms
 
-### Backend / Mobile
+`PostgreSQL` `Firebase` `GCP`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,postgres,firebase,docker" />
-</p>
+### Robotics and Simulation
 
-`Flutter` `Go` `Echo` `PostgreSQL` `Firebase`
+`ROS 2` `AnyBody Modeling System`
 
-### Robotics / Infrastructure
+### Development and Infrastructure
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ros,gcp,terraform,git,github,linux" />
-</p>
-
-`ROS2` `GCP` `Terraform` `GitHub Actions` `AnyBody`
+`Docker` `Terraform` `Git` `GitHub Actions` `Linux`
 
 ---
 
@@ -60,11 +50,11 @@ Graduate Student at Shinshu University / 42 Tokyo
 
 ### 🥌 Curling AI
 
-LLM-based system that generates **curling strategy, shot parameters, and natural-language explanations** from board states.
+Developed an LLM-based system that generates **curling strategies, executable shot parameters, and natural-language explanations** from board states.
 
-The model outputs executable shot parameters such as velocity and rotation together with an explanation of the intended strategy.
+**Built with:** `Python` `PyTorch` `Transformers`
 
-**Tech:** `Python` `PyTorch` `Transformers` `LLM` `Simulation`
+**Model and method:** `LLMs` `Simulation`
 
 ---
 
@@ -72,19 +62,23 @@ The model outputs executable shot parameters such as velocity and rotation toget
 
 Developed an automated platform for evaluating walking-assist algorithms using musculoskeletal simulation.
 
-Automated the workflow from simulation execution to assist-force calculation, re-analysis, and graph generation.
+The platform automates simulation execution, assistive-force calculation, re-analysis, and graph generation.
 
-**Tech:** `Python` `AnyBody Modeling System` `Biomechanics` `Motion Capture`
+**Built with:** `Python` `AnyBody Modeling System`
+
+**Domain and methods:** `Biomechanics` `Motion Capture`
 
 ---
 
 ### 🔎 RAG System
 
-Implemented a Retrieval-Augmented Generation pipeline from scratch, including document chunking, BM25 indexing, retrieval, answer generation, and evaluation.
+Implemented a retrieval-augmented generation pipeline from scratch, including document chunking, BM25 indexing, retrieval, answer generation, and evaluation.
 
-Optimized frequently executed search operations by moving query-independent calculations to the indexing stage.
+Optimized search by moving query-independent calculations to the indexing stage.
 
-**Tech:** `Python` `BM25` `Pydantic` `LLM` `RAG`
+**Built with:** `Python` `Pydantic`
+
+**Architecture and algorithm:** `RAG` `BM25`
 
 ---
 
@@ -92,21 +86,23 @@ Optimized frequently executed search operations by moving query-independent calc
 
 Developed a location-aware tourism application featuring AI-powered audio guides, quizzes, routes, and sightseeing spot recommendations.
 
-Worked mainly on the Flutter frontend while also collaborating with the backend and cloud infrastructure.
+Contributed primarily to the Flutter frontend while also collaborating on the backend and cloud infrastructure.
 
-**Tech:** `Flutter` `Dart` `Go` `PostgreSQL` `Firebase` `GCP` `OpenAI`
+**Built with:** `Flutter` `Dart` `Go` `PostgreSQL` `Firebase` `GCP` `OpenAI`
 
 ---
 
 ### 🚗 Autonomous Mini Car
 
-Developed autonomous driving control for a small robotic car.
+Developed an autonomous driving system for a small robotic car.
 
-Implemented a control pipeline progressing from PID control to drivable-area estimation, path planning, and path following.
+Implemented PID control, drivable-area estimation, path planning, and path following.
 
 🏆 **3rd Place**
 
-**Tech:** `Python` `C` `OpenCV` `Control Engineering`
+**Built with:** `Python` `C` `OpenCV`
+
+**Domain:** `Control Engineering`
 
 ---
 
@@ -128,15 +124,5 @@ Implemented a control pipeline progressing from PID control to drivable-area est
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=souaoao&show_icons=true&hide_border=true" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souaoao&layout=compact&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🔗 Links
-
-[Portfolio](https://souaoao.github.io/) • [GitHub](https://github.com/souaoao)
 
 </div>
