@@ -6,8 +6,6 @@
 
 Graduate Student at Shinshu University / 42 Tokyo
 
-[Portfolio](https://souaoao.github.io/)
-
 </div>
 
 ---
